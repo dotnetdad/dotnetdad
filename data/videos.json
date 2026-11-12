@@ -10,5 +10,41 @@
     "title": "Фоновые задачи в ASP.NET Core: от Task.Run до Outbox",
     "url": "https://www.youtube.com/watch?v=o4qAi2a0-vA",
     "date": "2026-10-23T10:40:44+00:00"
+  },
+  {
+    "id": "rI0GvpaUI8Y",
+    "title": "Что на самом деле ускоряет await в C#",
+    "url": "https://www.youtube.com/watch?v=rI0GvpaUI8Y",
+    "date": "2026-10-13T09:49:14+00:00"
+  },
+  {
+    "id": "hG6DZFjAFe8",
+    "title": "Что на самом деле происходит, когда вы вызываете CancellationToken?",
+    "url": "https://www.youtube.com/watch?v=hG6DZFjAFe8",
+    "date": "2026-10-08T08:10:13+00:00"
+  },
+  {
+    "id": "kPsgIjQLkTU",
+    "title": "ASP.NET Core и потоки: что на самом деле происходит под капотом?",
+    "url": "https://www.youtube.com/watch?v=kPsgIjQLkTU",
+    "date": "2026-10-05T07:54:01+00:00"
+  },
+  {
+    "id": "GKwuOM82OI0",
+    "title": "Как сделать лучшее резюме в 2026 году (с примерами)",
+    "url": "https://www.youtube.com/watch?v=GKwuOM82OI0",
+    "date": "2026-06-26T05:37:59+00:00"
+  },
+  {
+    "id": "lBhafk43xe4",
+    "title": "Event Sourcing: когда нужен, а когда только усложняет",
+    "url": "https://www.youtube.com/watch?v=lBhafk43xe4",
+    "date": "2026-05-13T11:22:02+00:00"
+  },
+  {
+    "id": "sqSLds845mg",
+    "title": "CQRS — это не команды и хендлеры. Главный миф на собесе",
+    "url": "https://www.youtube.com/watch?v=sqSLds845mg",
+    "date": "2026-04-24T07:51:07+00:00"
   }
 ]
