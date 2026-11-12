@@ -1,5 +1,11 @@
 [
   {
+    "id": "zatHU82Jcn8",
+    "title": "У нас было одно правило… НИКОГДА не трогать эту таблицу",
+    "url": "https://www.youtube.com/watch?v=zatHU82Jcn8",
+    "date": "2026-11-12T09:27:23+00:00"
+  },
+  {
     "id": "_IVRzj94z4w",
     "title": "Уровни изоляции транзакций в SQL: от теории до кода",
     "url": "https://www.youtube.com/watch?v=_IVRzj94z4w",
@@ -7,7 +13,7 @@
   },
   {
     "id": "o4qAi2a0-vA",
-    "title": "Фоновые задачи в ASP.NET Core: от Task.Run до Outbox",
+    "title": "BackgroundService в ASP.NET Core: от Task.Run до Outbox",
     "url": "https://www.youtube.com/watch?v=o4qAi2a0-vA",
     "date": "2026-10-23T10:40:44+00:00"
   },
@@ -46,5 +52,29 @@
     "title": "CQRS — это не команды и хендлеры. Главный миф на собесе",
     "url": "https://www.youtube.com/watch?v=sqSLds845mg",
     "date": "2026-04-24T07:51:07+00:00"
+  },
+  {
+    "id": "l1vpKLHp0sQ",
+    "title": "Микросервисы VS Монолит | Просто о сложном",
+    "url": "https://www.youtube.com/watch?v=l1vpKLHp0sQ",
+    "date": "2026-02-17T08:53:15+00:00"
+  },
+  {
+    "id": "yG3u5Ufl_xs",
+    "title": "Так проверяют Middle Backend-разработчиков на собеседовании",
+    "url": "https://www.youtube.com/watch?v=yG3u5Ufl_xs",
+    "date": "2026-01-16T08:33:52+00:00"
+  },
+  {
+    "id": "7wRlcww-0jw",
+    "title": "Domain-Driven Design | Просто о сложном",
+    "url": "https://www.youtube.com/watch?v=7wRlcww-0jw",
+    "date": "2025-12-18T08:39:30+00:00"
+  },
+  {
+    "id": "_qzPdABZUAM",
+    "title": "C# вопросы на собеседовании | Пример реального интервью",
+    "url": "https://www.youtube.com/watch?v=_qzPdABZUAM",
+    "date": "2025-10-31T06:24:42+00:00"
   }
 ]

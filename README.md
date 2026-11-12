@@ -24,14 +24,14 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=zatHU82Jcn8"><img src="https://i.ytimg.com/vi/zatHU82Jcn8/maxresdefault.jpg" alt="У нас было одно правило… НИКОГДА не трогать эту таблицу" width="100%"></a>
+<br><b><a href="https://www.youtube.com/watch?v=zatHU82Jcn8">У нас было одно правило… НИКОГДА не трогать эту таблицу</a></b>
+<br><sub>12 ноября 2026</sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://www.youtube.com/watch?v=_IVRzj94z4w"><img src="https://i.ytimg.com/vi/_IVRzj94z4w/maxresdefault.jpg" alt="Уровни изоляции транзакций в SQL: от теории до кода" width="100%"></a>
 <br><b><a href="https://www.youtube.com/watch?v=_IVRzj94z4w">Уровни изоляции транзакций в SQL: от теории до кода</a></b>
 <br><sub>28 октября 2026</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=o4qAi2a0-vA"><img src="https://i.ytimg.com/vi/o4qAi2a0-vA/maxresdefault.jpg" alt="Фоновые задачи в ASP.NET Core: от Task.Run до Outbox" width="100%"></a>
-<br><b><a href="https://www.youtube.com/watch?v=o4qAi2a0-vA">Фоновые задачи в ASP.NET Core: от Task.Run до Outbox</a></b>
-<br><sub>23 октября 2026</sub>
 </td>
 </tr>
 </table>
