@@ -24,14 +24,14 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=pR-3KYYovHM"><img src="https://i.ytimg.com/vi/pR-3KYYovHM/maxresdefault.jpg" alt="GTA 6 на ПК раньше Rockstar: четыре шага из пяти я прошёл" width="100%"></a>
+<br><b><a href="https://www.youtube.com/watch?v=pR-3KYYovHM">GTA 6 на ПК раньше Rockstar: четыре шага из пяти я прошёл</a></b>
+<br><sub>21 ноября 2026</sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://www.youtube.com/watch?v=zatHU82Jcn8"><img src="https://i.ytimg.com/vi/zatHU82Jcn8/maxresdefault.jpg" alt="У нас было одно правило… НИКОГДА не трогать эту таблицу" width="100%"></a>
 <br><b><a href="https://www.youtube.com/watch?v=zatHU82Jcn8">У нас было одно правило… НИКОГДА не трогать эту таблицу</a></b>
 <br><sub>12 ноября 2026</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=_IVRzj94z4w"><img src="https://i.ytimg.com/vi/_IVRzj94z4w/maxresdefault.jpg" alt="Уровни изоляции транзакций в SQL: от теории до кода" width="100%"></a>
-<br><b><a href="https://www.youtube.com/watch?v=_IVRzj94z4w">Уровни изоляции транзакций в SQL: от теории до кода</a></b>
-<br><sub>28 октября 2026</sub>
 </td>
 </tr>
 </table>
